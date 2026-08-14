@@ -1,0 +1,58 @@
+[
+  {
+    "dates": "2019",
+    "role": "Graphic Designer & Photographer",
+    "company": "Glamour Foto Makmur",
+    "description": "Interned as a Graphic Designer and Photographer in Pandaan.",
+    "logo": "/assets/images/experiences/wulian.ico"
+  },
+  {
+    "dates": "2019 - 2020",
+    "role": "Graphic Designer & Print Machine Operator",
+    "company": "ITSOL Indonesia",
+    "description": "Worked full-time as a Graphic Designer and Print Machine Operator in Pandaan.",
+    "logo": "/assets/images/experiences/fta.ico"
+  },
+    {
+    "dates": "2022",
+    "role": "Independent Study Participant",
+    "company": "Dicoding Indonesia",
+    "description": "Completed a Capstone Project as an Android Developer in Bandung.",
+    "logo": "/assets/images/experiences/wulian.ico"
+  },
+  {
+    "dates": "2022",
+    "role": "Media Division",
+    "company": "KKNT Universitas Yudharta",
+    "description": "Served in the Media Division for the Thematic Student Study Service (KKNT) in Wonosunyo.",
+    "logo": "/assets/images/experiences/yoho.ico"
+  },
+  {
+    "dates": "2022 - 2023",
+    "role": "Brand Designer",
+    "company": "Toko Kilgo Ancreza",
+    "description": "Worked remotely as a Brand Designer.",
+    "logo": "/assets/images/experiences/fta.ico"
+  },
+  {
+    "dates": "2023 - Present",
+    "role": "Development Team of PPK HIMAKOM",
+    "company": "PPK ORMAWA UYP",
+    "description": "Served as part of the PPK Ormawa development team in Wonokitri.",
+    "logo": "/assets/images/experiences/yoho.ico"
+  },
+  {
+    "dates": "2024 - Present",
+    "role": "Graphic Designer",
+    "company": "Eranyipta",
+    "description": "Working as a Graphic Designer.",
+    "logo": "/assets/images/experiences/wulian.ico"
+  },
+  {
+    "dates": "2025 - Present",
+    "role": "Brand Strategist",
+    "company": "Ladang Tunas",
+    "description": "Responsible for developing and implementing brand strategies.",
+    "logo": "/assets/images/experiences/fta.ico"
+  }
+]
